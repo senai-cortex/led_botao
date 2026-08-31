@@ -1,6 +1,7 @@
 Discente: Rafael Pellegrini Fodi
 Docente: Amanda Paul Dull
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
+Simular no TinkerCad: https://www.tinkercad.com/things/4vB5AIgVJZ9-amazing-amberis-turing/
 Enunciado: Vamos ligar o LED!
 O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
 O Arduino lê o estado do botão pelo pino 7
